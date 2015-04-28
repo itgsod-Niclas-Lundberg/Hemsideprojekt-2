@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+}
+
+#header {
+
+    width: 100%;
+    height: 23%;
+    opacity: 0.9;
+    top: 0px;
+    background: deepskyblue;
+    background-repeat: no-repeat;
+    background-position: center center;
+   
+}
+
+#menu {
+    width: 100%;
+
+}
+
+#menu ul {
+    padding: 0px;
+}
+
+#menu ul li  {
+    position: relative;
+    float: left;
+    width: 19.6%;
+    margin-left: 0.2%;
+    margin-right: 0.2%;
+    margin-top: -13px;
+    padding: 0px;
+   
+}
+
+#menu ul li a {
+    background-color: white;
+    font-size: 21px;
+    font-style: oblique;
+    color: black;
+    line-height: 14px;
+    display: block;
+    padding: 6px 10px 6px 10px;
+    border-radius: 5px 5px;
+    text-align: center;
+    box-shadow: 5px 2px 2px;
+    
+}
+
+#news {
+    width: 50%; 
+    height: 100%;
+    background-color: beige;
+    display: block;
+    box-shadow: 5px 5px 5px 2px 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nyheter {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#elever {
+    width: 20%;
+    height: 60%;
+    background-color: beige;
+    display: block;
+    float: left;
+    margin-left: 17%;
+    box-shadow: 5px 2px 2px;
+    border-radius: 5px 5px;
+    margin-top: 2%;
+    text-align: center;
+}
+
+#lärare {
+    width: 20%;
+    height: 60%;
+    background-color: beige;
+    display: block;
+    float: right;
+    margin-right: 17%;
+    box-shadow: 5px 2px 2px;
+    border-radius: 5px 5px;
+    margin-top: 2%;
+    text-align: center;
+}
